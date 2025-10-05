@@ -71,6 +71,7 @@ body {
   display: flex;
   align-items: center;
   position: relative;
+  justify-content: center;
 }
 
 .menu__link:hover {
